@@ -4,8 +4,36 @@
 
 <br>
 
-- 🌱 Currently learning **Advanced ASP.NET and Web API's**
-- 🔍 Looking for opportunities to collaborate on software development projects.
+## 👨‍💻 About Me
+- 💼 Software Developer with experience in designing and developing scalable web applications using ASP.NET, .NET, and SQL Server.
+- 🔧 Experienced in building RESTful APIs, implementing clean architecture patterns, and developing database-driven applications.
+- 🌱 Continuously improving my skills in ASP.NET Core, Microservices, Cloud Technologies, and Software Design Patterns.
+- 🚀 Passionate about backend development, problem-solving, and delivering maintainable software solutions.
+- 🤝 Open to collaborating on .NET, Web API, Angular, and Full-Stack development projects.
+
+
+#### Backend Development
+- ASP.NET Framework
+- ASP.NET Core
+- MVC Architecture
+- Web APIs
+- Entity Framework
+- ADO.NET
+- LINQ
+- Dependency Injection
+- Middleware
+- Repository Pattern
+
+
+#### Software Engineering Concepts
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Design Patterns
+- Interface-based Programming
+- Multithreading
+- Asynchronous Programming (async/await)
+- Clean Architecture
+
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yugantpatil8696@gmail.com)
@@ -17,7 +45,6 @@
 
 
 # 💻 Tech Stack:
-
 #### Technologies/Frameworks:
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=dotnet&logoColor=white)
